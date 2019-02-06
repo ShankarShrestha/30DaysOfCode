@@ -29,7 +29,13 @@ namespace _30DayCode
 
             ///////////Day 2///////////////
             CubeNumber cn = new CubeNumber();
-            cn.FindCubic();
+            Fibonacci fs = new Fibonacci();
+
+            //cn.FindCubic();
+            //fs.DisplayFibonacci();
+
+            fs.DisplayFibonacciByRecursion();
+            
         }
     }
 }

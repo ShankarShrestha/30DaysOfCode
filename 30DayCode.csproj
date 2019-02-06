@@ -50,6 +50,7 @@
     <Compile Include="Day1\StringSwap.cs" />
     <Compile Include="Day1\Temperature.cs" />
     <Compile Include="Day2\CubeNumber.cs" />
+    <Compile Include="Day2\Fibonacci.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

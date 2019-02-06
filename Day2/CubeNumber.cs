@@ -15,7 +15,8 @@ namespace _30DayCode.Day2
             Console.Write("Enter the Number: ");
             int inputNumber = Int32.Parse(Console.ReadLine());
             double totalSum = 0;
-
+            
+            // Loop till the input number
             for (int i = 1; i <= inputNumber; i++)
             {
                 double number = Math.Pow(i, 3);
