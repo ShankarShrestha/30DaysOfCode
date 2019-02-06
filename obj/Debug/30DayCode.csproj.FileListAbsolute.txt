@@ -1,0 +1,7 @@
+C:\Users\Shankar Shrestha\Documents\30DayCode\bin\Debug\30DayCode.exe.config
+C:\Users\Shankar Shrestha\Documents\30DayCode\bin\Debug\30DayCode.exe
+C:\Users\Shankar Shrestha\Documents\30DayCode\bin\Debug\30DayCode.pdb
+C:\Users\Shankar Shrestha\Documents\30DayCode\obj\Debug\30DayCode.csprojAssemblyReference.cache
+C:\Users\Shankar Shrestha\Documents\30DayCode\obj\Debug\30DayCode.csproj.CoreCompileInputs.cache
+C:\Users\Shankar Shrestha\Documents\30DayCode\obj\Debug\30DayCode.exe
+C:\Users\Shankar Shrestha\Documents\30DayCode\obj\Debug\30DayCode.pdb
